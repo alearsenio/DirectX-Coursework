@@ -1,0 +1,19 @@
+﻿  Game.cpp
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(231,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(231,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(234,60): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(234,43): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(235,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(243,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(243,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(574,65): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Game.cpp(575,66): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe

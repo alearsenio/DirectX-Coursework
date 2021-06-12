@@ -1,0 +1,18 @@
+C:\Users\alear\Desktop\University\Programming for Games\labs\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\University\Programming for Games\labs\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\alear\Desktop\University\Programming for Games\labs\GraphicCoursework\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\University\Programming for Games\labs\GraphicCoursework\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\alear\Desktop\CMP 502 Courserwork Alessandro Arsenio\source code\Coursework\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\CMP 502 Courserwork Alessandro Arsenio\source code\Coursework\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\alear\Desktop\CMP 502 Courserwork Alessandro Arsenio\source\Coursework\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\CMP 502 Courserwork Alessandro Arsenio\source\Coursework\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\alear\Desktop\University\CMP505\Labs\Coursework\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\University\CMP505\Labs\Coursework\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\alear\Desktop\University\CMP505\Labs\Coursework - Copy with third person movement\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\University\CMP505\Labs\Coursework - Copy with third person movement\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\alear\Desktop\CMP505 Coursework Alessandro Arsenio\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\CMP505 Coursework Alessandro Arsenio\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\alear\Desktop\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\alear\Desktop\University\CMP505 Coursework Alessandro Arsenio 2003816\CMP505 SourceCode\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb

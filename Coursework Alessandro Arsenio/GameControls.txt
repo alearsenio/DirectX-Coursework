@@ -1,0 +1,9 @@
+To control the submarine:
+
+A,S,D and W to move on the XZ plane.
+Q and E to move up and down on the Y axis.
+
+Move mouse to rotate horizontally.
+Click mouse's left button to fire the missiles.
+
+When dead, press R to restart the game.
